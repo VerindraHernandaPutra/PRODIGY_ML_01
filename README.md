@@ -23,5 +23,5 @@ All the scripts and notebooks in this project were developed and executed on a l
     cd PRODIGY_ML_01
     ```
 3.  **Install dependencies:**
-    *(You may want to add a `requirements.txt` file and list your dependencies here, for example: `pip install -r requirements.txt`)*
+    *`pip install -r requirements.txt`*
 4.  **Run the main script/notebook** located in the `src` folder.
