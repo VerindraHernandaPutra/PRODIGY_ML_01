@@ -22,6 +22,18 @@ All the scripts and notebooks in this project were developed and executed on a l
     ```sh
     cd PRODIGY_ML_01
     ```
-3.  **Install dependencies:**
-    *`pip install -r requirements.txt`*
-4.  **Run the main script/notebook** located in the `src` folder.
+3.  **Create and activate a virtual environment (Recommended):**
+    ```sh
+    # For Windows
+    python -m venv venv
+    .\venv\Scripts\activate
+
+    # For macOS/Linux
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+4.  **Install the required dependencies:**
+    ```sh
+    pip install -r requirements.txt
+    ```
+5.  **Run the main script or notebook** from the `src` folder to see the implementation.
